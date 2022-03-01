@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A panegyrick upon Oates·</title>
+            <author>Duke, Richard, 1659?-1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21432</idno>
+            <idno type="OCLC"> 12798325</idno>
+            <idno type="STC">Wing D2505C</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.9[823]</idno>
+            <idno type="STC">ESTC R5852</idno>
+            <idno type="EEBO-CITATION">99890783</idno>
+            <idno type="PROQUEST">ocm99890783</idno>
+            <idno type="VID">193092</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B21432)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193092)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A6:1[493])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A panegyrick upon Oates·</title>
+                  <author>Duke, Richard, 1659?-1711.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Richard Duke. Cf. Wing (2nd. ed.).</note>
+                  <note>Imprint from Wing.</note>
+                  <note>A satire on Titus Oates, "discoverer" of the Popish Plot.</note>
+                  <note>Verse: "Of all the grain our nation yield's".</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oates, Titus, 1649-1705 --  Poetry --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="panegyric">
+            <pb facs="tcp:193092:1" rendition="simple:additions"/>
+            <head>A PANEGYRICK UPON OATES</head>
+            <head type="sub">SILVESTREM TENUI <hi>MUSAM</hi> MEDITEMUR AVENA.</head>
+            <lg>
+               <l>OF all the <hi>Grain</hi> our Nation yield's</l>
+               <l>In Orchards, Gardens, or in Fields,</l>
+               <l>There is a <hi>Grain,</hi> (which tho 'tis common)</l>
+               <l>Its <hi>Worth</hi> till now, was known to no man</l>
+               <l>Not <hi>Ceres</hi> Sicle 'ere did <hi>Crop,</hi>
+               </l>
+               <l>A <hi>Grain</hi> with <hi>Ears</hi> of greater hope;</l>
+               <l>For why? ſome ſay, the Earth n'ere bore</l>
+               <l>In any Clime, ſuch <hi>Seed</hi> before.</l>
+            </lg>
+            <lg>
+               <l>Yet this <hi>Grain</hi> has (as all muſt own)</l>
+               <l>To <hi>Grooms</hi> and <hi>Oſtlers</hi> well bin <hi>known;</hi>
+               </l>
+               <l>And often has, without diſdain,</l>
+               <l>In <hi>Musty Barn</hi> and <hi>Manger layn;</hi>
+               </l>
+               <l>As if it had bin only good</l>
+               <l>To be for <hi>Birds</hi> and <hi>Beaſts</hi> the Food:</l>
+               <l>But now by new inſpired force</l>
+               <l>It keeps alive both <hi>Man</hi> and <hi>Horſe</hi>
+               </l>
+               <l>Speak then, my Muſe, for now we gueſs,</l>
+               <l>What <hi>Grain</hi> it is, thou wouldſt expreſs.</l>
+               <l>It is not Barley, Rye, or Wheat,</l>
+               <l>That can pretend to ſuch a Feat;</l>
+               <l>'Tis <hi>Oates, bare Oates,</hi> which is become</l>
+               <l>The <hi>Health</hi> of <hi>England, Bane</hi> of <hi>Rome,</hi>
+               </l>
+               <l>And <hi>Wonder</hi> of all <hi>Chriſtendom.</hi>
+               </l>
+               <l>And therefore <hi>Oates</hi> has well deſerv'd,</l>
+               <l>From <hi>Muſty Barn</hi> to be <hi>prefer'd,</hi>
+               </l>
+               <l>And now in <hi>Royal Court preſerv'd;</hi>
+               </l>
+               <l>That, like <hi>Heſperian Fruit, Oates</hi> may</l>
+               <l>Be <hi>watch'd</hi> and <hi>Garded</hi> night and Day;</l>
+               <l>Which is but juſt Retaliation</l>
+               <l>For having <hi>Guarded</hi> a whole Nation.</l>
+            </lg>
+            <lg>
+               <l>Hence every lofty Plant which ſtands</l>
+               <l>'Twixt <hi>Barwick Wals</hi> and <hi>Dover Sands,</hi>
+               </l>
+               <l>The <hi>Oake</hi> it ſelf, which well we ſtile</l>
+               <l>The Pride and ſafe-guard of our Iſle,</l>
+               <l>Muſt <hi>Wave</hi> and <hi>Strike</hi> its lofty Head,</l>
+               <l>And now Salute an <hi>Oaten Reed:</hi>
+               </l>
+               <l>For ſurely <hi>Oates</hi> deſerves to be</l>
+               <l>
+                  <hi>Exalted</hi> far 'bove any <hi>Tree.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Th' <hi>Egyptians</hi> once (tho' it ſeems odd)</l>
+               <l>Did worſhip <hi>Onyons</hi> for a <hi>God;</hi>
+               </l>
+               <l>And poor <hi>peel'd Garlick</hi> was with them</l>
+               <l>Eſteem'd beyond the greateſt <hi>Gemm.</hi>
+               </l>
+               <l>What would they' done, had they, think ye</l>
+               <l>Had ſuch a <hi>Blade</hi> of <hi>Oates</hi> as we?</l>
+               <l>
+                  <hi>Oates</hi> of ſuch known <hi>Divinity!</hi>
+               </l>
+               <l>Since then by <hi>Oates</hi> ſuch <hi>good</hi> we find,</l>
+               <pb facs="tcp:193092:2"/>
+               <l>Let <hi>Oates</hi> at leaſt now be <hi>enſhrin'd,</hi>
+               </l>
+               <l>Or in ſome ſacred <hi>Preſs</hi> enclos'd</l>
+               <l>Be only kept to be <hi>expos'd;</hi>
+               </l>
+               <l>And all fond <hi>Reliques</hi> elſe, ſhall be</l>
+               <l>Deem'd <hi>Objects</hi> of <hi>Idolatry.</hi>
+               </l>
+               <l>
+                  <hi>Popelings</hi> may tell us, how they ſaw</l>
+               <l>Their <hi>Garnet's Picture</hi> on a <hi>Straw;</hi>
+               </l>
+               <l>'Twas a <hi>Great</hi> miracle we know</l>
+               <l>To ſee him <hi>drawn</hi> in <hi>little</hi> ſo,</l>
+               <l>But on an <hi>Oaten Stalk,</hi> there is</l>
+               <l>A greater <hi>miracle</hi> than this,</l>
+               <l>A <hi>Viſage,</hi> which with <hi>lively Grace</hi>
+               </l>
+               <l>Does Twenty <hi>Garnets</hi> now <hi>Out-face,</hi>
+               </l>
+               <l>And like <hi>Twig</hi> of <hi>Dodona's Grove</hi>
+               </l>
+               <l>Ev'en <hi>ſpeak's</hi> as if <hi>inſpir'd</hi> by <hi>Jove.</hi>
+               </l>
+               <l>Nay, to add to the Wonder more,</l>
+               <l>Declares <hi>unheard-of</hi> Things before,</l>
+               <l>And Thouſand <hi>myſteries</hi> does unfold,</l>
+               <l>As <hi>plain</hi> as <hi>Oracles</hi> of old;</l>
+               <l>By which we <hi>steer</hi> affaires of State,</l>
+               <l>And <hi>ſtave</hi> off <hi>Britain's</hi> ſullen Fate.</l>
+            </lg>
+            <lg>
+               <l>Let's then, in honour of the name</l>
+               <l>Of <hi>Oates enact</hi> ſome <hi>Solemn Game,</hi>
+               </l>
+               <l>Where <hi>Oaten Pipe</hi> ſhall us inſpire</l>
+               <l>Beyond the <hi>Charms</hi> of <hi>Orpheus Lyre;</hi>
+               </l>
+               <lg>
+                  <l>
+                     <hi>Stones, Stocks</hi> and every <hi>Senceleſs thing</hi>
+                  </l>
+                  <l>To <hi>Oates</hi> ſhall <hi>dance,</hi> to <hi>Oates</hi> ſhall <hi>ſing.</hi>
+                  </l>
+                  <l>Whilſt <hi>Woods amaz'd</hi> to th' Ecchos ring.</l>
+               </lg>
+               <l>And as (that Hero's names may not</l>
+               <l>When they are rotten; be forgot)</l>
+               <l>We <hi>hang Atchievements</hi> o'<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e their Duſt;</l>
+               <l>(A debt to their great merits juſt:)</l>
+               <l>So if <hi>Deſerts</hi> of <hi>Oates</hi> we prize,</l>
+               <l>Let <hi>Oates</hi> ſtill <hi>hang</hi> before our eyes;</l>
+               <lg>
+                  <l>Thereby to raiſe our Contemplation,</l>
+                  <l>
+                     <hi>Oates</hi> being to this <hi>Happy</hi> Nation</l>
+                  <l>The <hi>Myſtic Embleme</hi> of <hi>Salvation.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:193092:2" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
